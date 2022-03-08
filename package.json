@@ -1,0 +1,15 @@
+{
+  "name": "git-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Sakol Assawasagool",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next"
+  },
+  "dependencies": {
+    "next": "^12.1.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
